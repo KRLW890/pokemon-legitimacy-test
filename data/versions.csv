@@ -1,0 +1,17 @@
+group_name,group_id,gen,subgame1,subgame2
+RB,0,1,Red,Blue
+Y,1,1,Yellow,
+GS,2,2,Gold,Silver
+C,3,2,Crystal,
+RS,4,3,Ruby,Sapphire
+FRLG,5,3,FireRed,LeafGreen
+E,6,3,Emerald,
+DP,7,4,Diamond,Pearl
+Pt,8,4,Platinum,
+HGSS,9,4,HeartGold,SoulSilver
+BW,10,5,Black,White
+B2W2,11,5,Black 2,White 2
+XY,12,6,X,Y
+ORAS,13,6,Omega Ruby,Alpha Sapphire
+SM,14,7,Sun,Moon
+USUM,15,7,Ultra Sun,Ultra Moon
